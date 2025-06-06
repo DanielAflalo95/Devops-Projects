@@ -1,0 +1,41 @@
+{
+    "users": {
+        "avi cohen": {
+            "name": "Avi Cohen",
+            "pin": 1234,
+            "balance": 1000,
+            "last actions": [
+                null,
+                null,
+                null
+            ]
+        },
+        "yossi abutbul": {
+            "name": "Yossi Abutbul",
+            "pin": 4321,
+            "balance": 2000,
+            "last actions": [
+                {
+                    "type": "Pin Change"
+                },
+                {
+                    "type": "Balance Check"
+                },
+                {
+                    "type": "Deposit",
+                    "amount": 1000
+                }
+            ]
+        },
+        "yuri levi": {
+            "name": "Yuri Levi",
+            "pin": 9876,
+            "balance": 1500,
+            "last actions": [
+                null,
+                null,
+                null
+            ]
+        }
+    }
+}
